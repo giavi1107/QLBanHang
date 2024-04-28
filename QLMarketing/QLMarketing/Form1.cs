@@ -15,6 +15,7 @@ namespace QLMarketing
         public Form1()
         {
             MessageBox.Show("Hi");
+            MessageBox.Show("Hi2");
             InitializeComponent();
         }
     }
